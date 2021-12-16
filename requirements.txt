@@ -1,0 +1,8 @@
+botogram
+pyshorteners
+requests
+aiohttp
+motor
+motor
+aiofiles
+dnspython
